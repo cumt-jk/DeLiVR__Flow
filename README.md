@@ -1,11 +1,19 @@
 
+
+
 # 🏆 DeLiVR_Flow: Unified Sim(2) Lie-Group and Flow-Guided Attention for Video Deraining
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](#) [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](#)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > Official PyTorch implementation of the paper **"DeLiVR_Flow: Unified $Sim(2)$ Lie-Group and Flow-Guided Attention for Video Deraining"**.
 ---
 ## Demo
-<video src="[https://github.com/cumt-jk/DeLiVR__Flow/assets/demo_video.mp4](https://github.com/cumt-jk/DeLiVR__Flow/blob/main/assets/demo_video.mp4)" width="100%" controls></video>
+
+
+
+https://github.com/user-attachments/assets/8cae93e5-f044-488d-80af-3f6798efba3b
+
+
+
 ## 📖 1. Introduction
 
 Outdoor videos often suffer from severe rain streaks, and complex camera and object motion further cause serious inter-frame mismatches. Current approaches encounter a fundamental trade-off: implicit attention lacks the geometric rigor to model global kinematics, whereas explicit optical flow proves brittle under heavy rain interference.
