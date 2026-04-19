@@ -32,7 +32,8 @@ Our method effectively removes dense rain streaks and rain-induced color distort
 ![Visual Comparison](assets/visual_comparison.png) 
 
 ### Improvements on Downstream Tasks
-DeLiVR_Flow significantly enhances the reliability of downstream high-level vision systems (e.g., YOLOv8 for object detection and SegFormer for semantic segmentation) in rainy scenes.<img width="979" height="461" alt="architecture" src="https://github.com/user-attachments/assets/1b0915a0-9e11-469b-b721-5c063fc4a9d9" />
+
+DeLiVR_Flow significantly enhances the reliability of downstream high-level vision systems (e.g., YOLOv8 for object detection and SegFormer for semantic segmentation) in rainy scenes.
 
 ![Downstream Tasks](assets/downstream_tasks.png)
 ---
