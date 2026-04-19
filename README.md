@@ -5,7 +5,9 @@
 > Official PyTorch implementation of the paper **"DeLiVR_Flow: Unified $Sim(2)$ Lie-Group and Flow-Guided Attention for Video Deraining"**.
 ---
 ## Demo
-<video src="assets/demo_video.mp4" width="100%" controls></video>
+
+
+
 ## 📖 1. Introduction
 
 Outdoor videos often suffer from severe rain streaks, and complex camera and object motion further cause serious inter-frame mismatches. Current approaches encounter a fundamental trade-off: implicit attention lacks the geometric rigor to model global kinematics, whereas explicit optical flow proves brittle under heavy rain interference.
@@ -24,7 +26,8 @@ Our method effectively removes dense rain streaks and rain-induced color distort
 ![Visual Comparison](assets/visual_comparison.png) 
 
 ### Improvements on Downstream Tasks
-DeLiVR_Flow significantly enhances the reliability of downstream high-level vision systems (e.g., YOLOv8 for object detection and SegFormer for semantic segmentation) in rainy scenes.
+DeLiVR_Flow significantly enhances the reliability of downstream high-level vision systems (e.g., YOLOv8 for object detection and SegFormer for semantic segmentation) in rainy scenes.<img width="979" height="461" alt="architecture" src="https://github.com/user-attachments/assets/1b0915a0-9e11-469b-b721-5c063fc4a9d9" />
+
 ![Downstream Tasks](assets/downstream_tasks.png)
 ---
 ## 🧠 3. Network Architecture
