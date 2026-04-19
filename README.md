@@ -151,10 +151,10 @@ We provide pre-trained models evaluated on major video deraining benchmarks
 
 |**Dataset**|**PSNR ↑**|**SSIM ↑**|**LPIPS ↓**|**Download**|
 |---|---|---|---|---|
-|**NTURain**|37.50|0.973|0.017|[Google Drive](https://www.google.com/search?q=%23&authuser=1) / [Baidu Netdisk](https://www.google.com/search?q=%23&authuser=1)|
-|**Syn-Light**|31.82|0.917|0.081|[Google Drive](https://www.google.com/search?q=%23&authuser=1) / [Baidu Netdisk](https://www.google.com/search?q=%23&authuser=1)|
-|**Syn-Complex**|26.68|0.765|0.213|[Google Drive](https://www.google.com/search?q=%23&authuser=1) / [Baidu Netdisk](https://www.google.com/search?q=%23&authuser=1)|
-|**WeatherBench**|27.48|0.835|0.302|[Google Drive](https://www.google.com/search?q=%23&authuser=1) / [Baidu Netdisk](https://www.google.com/search?q=%23&authuser=1)|
+|**NTURain**|37.91|0.975|0.016|[Google Drive](https://www.google.com/search?q=%23&authuser=1) / [Baidu Netdisk](https://www.google.com/search?q=%23&authuser=1)|
+|**Syn-Light**|32.42|0.917|0.081|[Google Drive](https://www.google.com/search?q=%23&authuser=1) / [Baidu Netdisk](https://www.google.com/search?q=%23&authuser=1)|
+|**Syn-Complex**|28.23|0.765|0.213|[Google Drive](https://www.google.com/search?q=%23&authuser=1) / [Baidu Netdisk](https://www.google.com/search?q=%23&authuser=1)|
+|**WeatherBench**|35.18|0.935|0.162|[Google Drive](https://www.google.com/search?q=%23&authuser=1) / [Baidu Netdisk](https://www.google.com/search?q=%23&authuser=1)|
 
 _Instructions: Download the corresponding `.pth` files and place them in the `./weights/` directory for testing._
 
